@@ -11,7 +11,9 @@ namespace HashTables
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Hash Table Program");
-
+            
+            MyMapNode<string, string> hash = new MyMapNode<string, string>(20);
+            Console.WriteLine(hash.IsEmpty());
             hash.Add("0", "paranoids");
             hash.Add("1", "are");
             hash.Add("2", "not");
