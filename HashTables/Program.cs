@@ -11,6 +11,9 @@ namespace HashTables
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Hash Table Program");
+
+            string paragraph = "To be or not to be or not";
+            FrequencyOfWords.GetFrequencyOfWords(paragraph);
             Console.ReadLine();
         }
     }
