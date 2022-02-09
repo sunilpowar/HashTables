@@ -23,12 +23,9 @@ namespace HashTables
                     hashTable.Add(word.ToLower(), 1);
                 }
             }
-            Console.WriteLine("Displaying after Add Operation:");
+            Console.WriteLine("Displaying after Add operatopn:");
             hashTable.Display();
-            string s = "or";
-            hashTable.Remove(s);
-            Console.WriteLine("After Removing an item {0}:", s);
-            hashTable.Display();
+            
         }
     }
 }

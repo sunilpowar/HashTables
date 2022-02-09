@@ -12,7 +12,7 @@ namespace HashTables
         {
             Console.WriteLine("Welcome to Hash Table Program");
 
-            string paragraph = "To be or not to be or not";
+            string paragraph = "Paranoids are not paranoid because they are paranoid but because they keep putting themselves deliberately into paranoid avoidable situations";
             FrequencyOfWords.GetFrequencyOfWords(paragraph);
             Console.ReadLine();
         }

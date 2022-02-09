@@ -101,7 +101,7 @@ namespace HashTables
             if (itemFound)
             {
                 linkedList.Remove(foundItem);
-               Console.WriteLine("Removed successfuy with key: " + foundItem.Key);
+                Console.WriteLine("Removed successfuy with key: " + foundItem.Key);
             }
         }
 
@@ -122,6 +122,7 @@ namespace HashTables
                 }
             }
         }
+
     }
 }
 
