@@ -1,0 +1,8 @@
+C:\Users\Shree\source\repos\StackAndQueue\HashTables\bin\Debug\HashTables.exe.config
+C:\Users\Shree\source\repos\StackAndQueue\HashTables\bin\Debug\HashTables.exe
+C:\Users\Shree\source\repos\StackAndQueue\HashTables\bin\Debug\HashTables.pdb
+C:\Users\Shree\source\repos\StackAndQueue\HashTables\obj\Debug\HashTables.csproj.AssemblyReference.cache
+C:\Users\Shree\source\repos\StackAndQueue\HashTables\obj\Debug\HashTables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shree\source\repos\StackAndQueue\HashTables\obj\Debug\HashTables.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\StackAndQueue\HashTables\obj\Debug\HashTables.exe
+C:\Users\Shree\source\repos\StackAndQueue\HashTables\obj\Debug\HashTables.pdb
